@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="903c768c-76ca-4aa1-adf0-419076fa0246" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ApolloGQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/__generated__/globalTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/apollo-internal-demos/android-workload.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/apollo-internal-demos/ios-workload.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/apollo.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/curve.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/icons/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/icons/exit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/icons/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/badge-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/badge-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/badge-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/dog-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/dog-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/dog-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/galaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/iss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/moon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/images/space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/assets/rocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/launch-detail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/launch-tile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/login-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/menu-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/__tests__/page-container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/launch-detail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/launch-tile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/login-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/menu-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/components/page-container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__generated__/BookTrips.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__generated__/GetLaunch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__generated__/addOrRemoveFromCart.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__generated__/cancel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__tests__/action-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__tests__/book-trips.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__tests__/cart-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/__tests__/logout-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/action-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/book-trips.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/cart-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/containers/logout-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__generated__/GetCartItems.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__generated__/GetLaunchList.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__generated__/GetMyTrips.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__generated__/IsUserLoggedIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__generated__/LaunchDetails.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__generated__/LaunchTile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__generated__/login.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__tests__/cart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__tests__/launch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__tests__/launches.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__tests__/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/__tests__/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/cart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/launch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/launches.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/pages/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/src/test-utils.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/apollo.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/bin/reset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/now.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/__snapshots__/e2e.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/__snapshots__/integration.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/__utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/e2e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/integration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/resolvers.mission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/resolvers.mutation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/resolvers.query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/__tests__/resolvers.user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/datasources/__tests__/launch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/datasources/__tests__/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/datasources/launch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/datasources/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/engine-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/resolvers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final/server/store.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/apollo.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/curve.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/icons/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/icons/exit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/icons/profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/badge-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/badge-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/badge-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/dog-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/dog-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/dog-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/galaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/iss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/moon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/images/space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/assets/rocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/launch-detail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/launch-tile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/login-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/menu-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/__tests__/page-container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/launch-detail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/launch-tile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/login-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/menu-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/components/page-container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/__generated__/BookTrips.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/__generated__/GetLaunch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/__generated__/cancel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/__tests__/action-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/__tests__/book-trips.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/__tests__/cart-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/__tests__/logout-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/action-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/book-trips.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/cart-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/containers/logout-button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__generated__/GetCartItems.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__generated__/GetLaunchList.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__generated__/GetMyTrips.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__generated__/IsUserLoggedIn.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__generated__/LaunchDetails.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__generated__/LaunchTile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__generated__/login.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__tests__/cart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__tests__/launch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__tests__/launches.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__tests__/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/__tests__/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/cart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/launch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/launches.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/pages/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/resolvers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/src/test-utils.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/client/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/__snapshots__/e2e.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/__snapshots__/integration.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/__utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/e2e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/integration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/resolvers.mission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/resolvers.mutation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/resolvers.query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/__tests__/resolvers.user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/datasources/__tests__/launch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/datasources/__tests__/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/datasources/launch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/datasources/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/resolvers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/src/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/server/store.sqlite" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/ApolloGQL.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="6" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ApolloGQL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ApolloGQL" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="903c768c-76ca-4aa1-adf0-419076fa0246" name="Default Changelist" comment="" />
+      <created>1595924373109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595924373109</updated>
+      <workItem from="1595924374181" duration="1287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1287000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="GraphQL" />
+      <window_info anchor="bottom" id="CSS-X-Fire" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
